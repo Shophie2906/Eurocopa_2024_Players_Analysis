@@ -5,8 +5,6 @@
 # Elena Sánchez C.I 31.873.786
 # Sebastian Lopez C.I. 29.955.246
 
-# Te queremos gabito <3 
-
 # Activamos el paquete pandas para poder trabajar con dfFrames de csv y otros paquetes para poder graficar
 import pandas as pd
 import matplotlib.pyplot as plt
